@@ -40,3 +40,13 @@ PHP-based multi-page hotel booking website with form handling and page navigatio
 
 ## 📫 Connect
 - GitHub: https://github.com/Shashiverma04
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashiverma04&show_icons=true&theme=dark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shashi%20Verma-blue)](https://www.linkedin.com/in/shashi-verma-b350a7294)
+
+---
+
+## 📂 Featured Projects
+- [AI Saathi](https://github.com/Shashiverma04/ai-saathi) – AI welfare scheme assistant  
+- [Hotel Booking Website](https://github.com/Shashiverma04/hotel-booking-website) – PHP hotel site  
+
