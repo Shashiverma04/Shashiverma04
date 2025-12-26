@@ -1,27 +1,73 @@
 # 👋 Hi, I'm Shashi Verma
 
-Aspiring AI Developer focused on building real-world applications using Machine Learning, AI, and backend technologies.
+Aspiring **AI / ML Engineer** with hands-on experience in **Natural Language Processing, Computer Vision, and backend API deployment**.  
+Interested in building **scalable, explainable, and ethical AI systems** for real-world applications.
 
 ---
 
 ## 🔭 About Me
-I build meaningful projects that solve problems and help me learn core concepts deeply. I enjoy participating in hackathons, exploring new tech, and refining my coding skills.
+- AI / ML focused developer with practical project experience
+- Strong interest in NLP, Computer Vision, and backend systems
+- Hackathon participant and continuous learner
+- Passionate about social-impact and real-world AI solutions
 
 ---
 
-## 🧠 Skills
-- **Languages:** Python, PHP, HTML, CSS, JavaScript  
-- **Frameworks & Tools:** FastAPI, Git & GitHub  
-- **Areas of Interest:** AI, NLP, Backend Development, Web Applications
+## 🧠 Technical Skills
+
+**Programming**
+- Python, JavaScript
+
+**Machine Learning**
+- Scikit-learn
+- Model training & evaluation metrics
+
+**Natural Language Processing**
+- Transformers
+- Text preprocessing
+- Semantic similarity
+
+**Computer Vision**
+- OpenCV
+- MediaPipe
+- Facial landmark analysis
+
+**Backend & Tools**
+- FastAPI
+- MySQL
+- Git (basic)
+- Flutter
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-### ⭐ AI Saathi
-AI-powered assistant to help users discover government welfare schemes using semantic similarity.
+### 🔹 AI Saathi – Social Impact AI Platform
+- Designed an AI-driven platform for welfare scheme discovery and misinformation awareness
+- Used **NLP-based semantic similarity** instead of rigid rule-based eligibility logic
+- Built scalable REST APIs with **explainable AI outputs**
 
-🔗 Live/Repo: https://github.com/Shashiverma04/ai-saathi
+🔗 Repo: https://github.com/Shashiverma04/ai-saathi
+
+---
+
+### 🔹 Fake News Detection System (NLP)
+- Implemented **transformer-based text classification** for misinformation detection
+- Deployed the model using **FastAPI** for real-time inference
+
+🔗 Repo: https://github.com/Shashiverma04/fake-news-detector
+
+---
+
+### 🔹 Deepfake Detection System (Computer Vision)
+- Developed a CV-based deepfake detection system
+- Used **MediaPipe facial landmarks** and **OpenCV** for analysis
+
+---
+
+### 🔹 Government Scheme AI Bot
+- Built a semantic similarity–based recommender system
+- Replaced rigid eligibility rules with intent-based AI matching
 
 ---
 
@@ -42,7 +88,7 @@ An NLP model to classify and detect fake news using transformer techniques.
 ## 📫 Connect With Me
 - GitHub: https://github.com/Shashiverma04  
 - LinkedIn: *(https://www.linkedin.com/in/shashi-verma-b350a7294)*
-
+- Email: vshashi120@gmail.com
 ---
 
-⭐ Always learning and building — one project at a time.
+⭐ Building real-world AI systems with a focus on impact, clarity, and learning.
