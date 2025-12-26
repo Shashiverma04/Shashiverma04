@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Shashi Verma 👋
 
-<!--
-**Shashiverma04/Shashiverma04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI Developer with a strong interest in building meaningful,
+real-world applications using Artificial Intelligence and software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Interested in AI, NLP, and backend development
+- Enjoy participating in hackathons and project-based learning
+- Focused on building practical and impactful solutions
+
+---
+
+## 🧠 Skills
+- Python
+- Machine Learning & NLP
+- PHP & Backend Basics
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+---
+
+## 🧩 Projects
+### 🔹 AI Saathi
+AI-powered assistant to help citizens discover government welfare schemes
+using semantic similarity instead of rule-based logic.
+
+### 🔹 Hotel Booking Website
+PHP-based multi-page hotel booking website with form handling and page navigation.
+
+---
+
+## 🏆 Activities
+- Hackathon participant
+- Open-source learner
+- Continuous upskilling through projects
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/Shashiverma04
