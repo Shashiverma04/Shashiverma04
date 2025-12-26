@@ -41,8 +41,6 @@ PHP-based multi-page hotel booking website with form handling and page navigatio
 ## 📫 Connect
 - GitHub: https://github.com/Shashiverma04
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shashiverma04&show_icons=true&count_private=true)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shashi%20Verma-blue)](https://www.linkedin.com/in/shashi-verma-b350a7294)
 
 ---
