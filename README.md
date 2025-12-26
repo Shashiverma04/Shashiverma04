@@ -1,51 +1,48 @@
-# Hi, I'm Shashi Verma 👋
+# 👋 Hi, I'm Shashi Verma
 
-Aspiring AI Developer with a strong interest in building meaningful,
-real-world applications using Artificial Intelligence and software development.
+Aspiring AI Developer focused on building real-world applications using Machine Learning, AI, and backend technologies.
 
 ---
 
-## 🚀 About Me
-- Interested in AI, NLP, and backend development
-- Enjoy participating in hackathons and project-based learning
-- Focused on building practical and impactful solutions
+## 🔭 About Me
+I build meaningful projects that solve problems and help me learn core concepts deeply. I enjoy participating in hackathons, exploring new tech, and refining my coding skills.
 
 ---
 
 ## 🧠 Skills
-- Python
-- Machine Learning & NLP
-- PHP & Backend Basics
-- HTML, CSS, JavaScript
-- Git & GitHub
+- **Languages:** Python, PHP, HTML, CSS, JavaScript  
+- **Frameworks & Tools:** FastAPI, Git & GitHub  
+- **Areas of Interest:** AI, NLP, Backend Development, Web Applications
 
 ---
 
-## 🧩 Projects
-### 🔹 AI Saathi
-AI-powered assistant to help citizens discover government welfare schemes
-using semantic similarity instead of rule-based logic.
+## 🚀 Featured Projects
 
-### 🔹 Hotel Booking Website
-PHP-based multi-page hotel booking website with form handling and page navigation.
+### ⭐ AI Saathi
+AI-powered assistant to help users discover government welfare schemes using semantic similarity.
 
----
-
-## 🏆 Activities
-- Hackathon participant
-- Open-source learner
-- Continuous upskilling through projects
+🔗 Live/Repo: https://github.com/Shashiverma04/ai-saathi
 
 ---
 
-## 📫 Connect
-- GitHub: https://github.com/Shashiverma04
+### 🏨 Hotel Booking Website
+PHP-based multi-page hotel website with form processing and navigation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shashi%20Verma-blue)](https://www.linkedin.com/in/shashi-verma-b350a7294)
+🔗 Repo: https://github.com/Shashiverma04/hotel-booking-website
 
 ---
 
-## 📂 Featured Projects
-- [AI Saathi](https://github.com/Shashiverma04/ai-saathi) – AI welfare scheme assistant  
-- [Hotel Booking Website](https://github.com/Shashiverma04/hotel-booking-website) – PHP hotel site  
+### 📰 Fake News Detector
+An NLP model to classify and detect fake news using transformer techniques.
 
+🔗 Repo: https://github.com/Shashiverma04/fake-news-detector
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Shashiverma04  
+- LinkedIn: *(https://www.linkedin.com/in/shashi-verma-b350a7294)*
+
+---
+
+⭐ Always learning and building — one project at a time.
