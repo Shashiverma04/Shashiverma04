@@ -75,7 +75,8 @@ Interested in building **scalable, explainable, and ethical AI systems** for rea
 PHP-based multi-page hotel website with form processing and navigation.
 
 🔗 Repo: https://github.com/Shashiverma04/hotel-booking-website
-🔗 Live Demo: https://php-hotel.wuaze.com/
+🔗 Live Demo: https://php-hotel.wuaze.com
+
 ---
 
 ### 📰 Fake News Detector
@@ -87,7 +88,7 @@ An NLP model to classify and detect fake news using transformer techniques.
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Shashiverma04  
-- LinkedIn: *(https://www.linkedin.com/in/shashi-verma-b350a7294)*
+- LinkedIn: https://www.linkedin.com/in/shashi-verma-b350a7294)
 - Email: vshashi120@gmail.com
 ---
 
