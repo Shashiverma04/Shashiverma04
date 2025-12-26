@@ -75,7 +75,7 @@ Interested in building **scalable, explainable, and ethical AI systems** for rea
 PHP-based multi-page hotel website with form processing and navigation.
 
 🔗 Repo: https://github.com/Shashiverma04/hotel-booking-website
-
+🔗 Live Demo: https://php-hotel.wuaze.com/
 ---
 
 ### 📰 Fake News Detector
